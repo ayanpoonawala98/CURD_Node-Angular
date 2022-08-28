@@ -1,0 +1,12 @@
+image {
+    width: 100px;
+    border-radius: 20%;
+}
+
+.main {
+    margin-top: 20px;
+}
+
+.block {
+    margin-bottom: 15px;
+}
